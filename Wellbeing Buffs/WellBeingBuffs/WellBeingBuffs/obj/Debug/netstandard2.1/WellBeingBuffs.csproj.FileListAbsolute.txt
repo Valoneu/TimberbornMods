@@ -1,0 +1,7 @@
+D:\GitHub\TimberbornMods\Wellbeing Buffs\WellBeingBuffs\WellBeingBuffs\obj\Debug\netstandard2.1\WellBeingBuffs.csproj.AssemblyReference.cache
+D:\GitHub\TimberbornMods\Wellbeing Buffs\WellBeingBuffs\WellBeingBuffs\obj\Debug\netstandard2.1\PluginInfo.cs
+D:\GitHub\TimberbornMods\Wellbeing Buffs\WellBeingBuffs\WellBeingBuffs\obj\Debug\netstandard2.1\WellBeingBuffs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TimberbornMods\Wellbeing Buffs\WellBeingBuffs\WellBeingBuffs\obj\Debug\netstandard2.1\WellBeingBuffs.AssemblyInfoInputs.cache
+D:\GitHub\TimberbornMods\Wellbeing Buffs\WellBeingBuffs\WellBeingBuffs\obj\Debug\netstandard2.1\WellBeingBuffs.AssemblyInfo.cs
+D:\GitHub\TimberbornMods\Wellbeing Buffs\WellBeingBuffs\WellBeingBuffs\obj\Debug\netstandard2.1\WellBeingBuffs.csproj.CoreCompileInputs.cache
+D:\GitHub\TimberbornMods\Wellbeing Buffs\WellBeingBuffs\WellBeingBuffs\obj\Debug\netstandard2.1\MyPluginInfo.cs
