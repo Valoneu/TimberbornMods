@@ -4,45 +4,45 @@
   "Bonuses": [
     {
       "Wellbeing": 2,
-      "Multiplier": 0.05
+      "Multiplier": 0.10
     },
     {
       "Wellbeing": 12,
-      "Multiplier": 0.15
-    },
-    {
-      "Wellbeing": 22,
       "Multiplier": 0.3
     },
     {
-      "Wellbeing": 32,
-      "Multiplier": 0.40
-    },
-    {
-      "Wellbeing": 42,
+      "Wellbeing": 22,
       "Multiplier": 0.5
     },
     {
-      "Wellbeing": 52,
-      "Multiplier": 0.6
-    },
-    {
-      "Wellbeing": 62,
-      "Multiplier": 0.65
-    },
-    {
-      "Wellbeing": 72,
+      "Wellbeing": 32,
       "Multiplier": 0.7
     },
     {
+      "Wellbeing": 42,
+      "Multiplier": 1
+    },
+    {
+      "Wellbeing": 52,
+      "Multiplier": 1.3
+    },
+    {
+      "Wellbeing": 62,
+      "Multiplier": 1.6
+    },
+    {
+      "Wellbeing": 72,
+      "Multiplier": 1.9
+    },
+    {
       "Wellbeing": 82,
-      "Multiplier": 0.75
+      "Multiplier": 2.3
     },
     {
       "Wellbeing": 92,
-      "Multiplier": 0.8
+      "Multiplier": 2.5
     }
   ],
   "WellbeingThreshold": 10,
-  "MultiplierIncrement": 0.05
+  "MultiplierIncrement": 0.2
 }

@@ -24,23 +24,23 @@
     },
     {
       "Wellbeing": 57,
-      "Multiplier": 1.1
-    },
-    {
-      "Wellbeing": 67,
       "Multiplier": 1.2
     },
     {
-      "Wellbeing": 77,
-      "Multiplier": 1.3
-    },
-    {
-      "Wellbeing": 87,
+      "Wellbeing": 67,
       "Multiplier": 1.4
     },
     {
+      "Wellbeing": 77,
+      "Multiplier": 1.6
+    },
+    {
+      "Wellbeing": 87,
+      "Multiplier": 1.8
+    },
+    {
       "Wellbeing": 97,
-      "Multiplier": 1.5
+      "Multiplier": 2
     }
   ],
   "WellbeingThreshold": 10,

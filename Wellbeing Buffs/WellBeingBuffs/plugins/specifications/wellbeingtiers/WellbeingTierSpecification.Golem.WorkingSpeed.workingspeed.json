@@ -4,17 +4,17 @@
   "Bonuses": [
     {
       "Wellbeing": 0,
-      "Multiplier": 0.45
+      "Multiplier": 1
     },
     {
       "Wellbeing": 1,
-      "Multiplier": 0.9
+      "Multiplier": 2
     },
     {
       "Wellbeing": 2,
-      "Multiplier": 1.2
+      "Multiplier": 3
     }
   ],
   "WellbeingThreshold": 1,
-  "MultiplierIncrement": 0.2
+  "MultiplierIncrement": 0.5
 }
