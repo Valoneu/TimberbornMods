@@ -3932,7 +3932,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\GitHub\\TimberbornMods\\Wellbeing Buffs\\WellBeingBuffs\\WellBeingBuffs\\WellBeingBuffs.csproj",
-      "projectName": "WellBeingBuffs",
+      "projectName": "com.Valoneu.WellBeingBuffs",
       "projectPath": "D:\\GitHub\\TimberbornMods\\Wellbeing Buffs\\WellBeingBuffs\\WellBeingBuffs\\WellBeingBuffs.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\TimberbornMods\\Wellbeing Buffs\\WellBeingBuffs\\WellBeingBuffs\\obj\\",
