@@ -2,7 +2,7 @@
 {
   "name": "WellBeingBuff",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/Valoneu/TimberbornMods/tree/main/Wellbeing%20Buffs",
+  "website_url": "",
   "description": "Each well being tier gives more %",
   "dependencies": [
     "Timberborn_Central-TimberAPI-0.5.1"

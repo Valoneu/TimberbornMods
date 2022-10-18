@@ -2,7 +2,7 @@
 {
   "Name": "WellBeingBuff",
   "Version": "1.0.0",
-  "UniqueId": "Valoneu.plugins.WellBeingBuff",
-  "MinimumApiVersion": "0.5.0",
+  "UniqueId": "com.Valoneu.WellBeingBuff",
+  "MinimumApiVersion": "0.5.2",
   "MinimumGameVersion": "0.2.8"
 }

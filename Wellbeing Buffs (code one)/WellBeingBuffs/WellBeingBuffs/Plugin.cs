@@ -115,62 +115,14 @@ namespace WellBeingBuffs
             bonusesChildGrowth.Add(new WellbeingTierBonusSpecification(82, 1.8f * WellBeingBuffConfig.childGrowthSpeedMultipler));
             bonusesChildGrowth.Add(new WellbeingTierBonusSpecification(92, 2f * WellBeingBuffConfig.childGrowthSpeedMultipler));
 
-            __result = new WellbeingTierSpecification(
-                "BeaverAdult",
-                "LifeExpectancy",
-                bonusesAdultExpectancy,
-                10,
-                0.1f * WellBeingBuffConfig.adultLifeExpectancyMultipler
-                );
-            __result = new WellbeingTierSpecification(
-                "BeaverAdult",
-                "MovementSpeed",
-                bonusesAdultMovement,
-                10,
-                0.05f * WellBeingBuffConfig.adultMovementSpeedMultipler
-                );
-            __result = new WellbeingTierSpecification(
-                "BeaverAdult",
-                "WorkingSpeed",
-                bonusesAdultWorking,
-                10,
-                0.1f * WellBeingBuffConfig.adultWorkingSpeedMultipler
-                );
-            __result = new WellbeingTierSpecification(
-                "Golem",
-                "MovementSpeed",
-                bonusesGolemMovement,
-                10,
-                0.1f * WellBeingBuffConfig.golemMovementSpeedMultipler
-                );
-            __result = new WellbeingTierSpecification(
-                "Golem",
-                "WorkingSpeed",
-                bonusesGolemWorking,
-                10,
-                0.1f * WellBeingBuffConfig.golemWorkingSpeedMultipler
-                );
-            __result = new WellbeingTierSpecification(
-                "BeaverChild",
-                "GrowthSpeed",
-                bonusesChildGrowth,
-                10,
-                0.05f * WellBeingBuffConfig.childGrowthSpeedMultipler
-                );
-            __result = new WellbeingTierSpecification(
-                "BeaverChild",
-                "LifeExpectancy",
-                bonusesChildExpectancy,
-                1,
-                0.2f * WellBeingBuffConfig.childLifeExpectancyMultipler
-                );
-            __result = new WellbeingTierSpecification(
-                "BeaverChild",
-                "MovementSpeed",
-                bonusesChildMovement,
-                1,
-                0.2f * WellBeingBuffConfig.childMovementSpeedMultipler
-                );
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("BeaverAdult","LifeExpectancy",   bonusesAdultExpectancy, 10, 0.1f    * WellBeingBuffConfig.adultLifeExpectancyMultipler);
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("BeaverAdult","MovementSpeed",    bonusesAdultMovement,   10, 0.05f   * WellBeingBuffConfig.adultMovementSpeedMultipler);
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("BeaverAdult","WorkingSpeed",     bonusesAdultWorking,    10, 0.1f    * WellBeingBuffConfig.adultWorkingSpeedMultipler);
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("Golem",      "MovementSpeed",    bonusesGolemMovement,   10, 0.1f    * WellBeingBuffConfig.golemMovementSpeedMultipler);
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("Golem",      "WorkingSpeed",     bonusesGolemWorking,    10, 0.1f    * WellBeingBuffConfig.golemWorkingSpeedMultipler);
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("BeaverChild","GrowthSpeed",      bonusesChildGrowth,     10, 0.05f   * WellBeingBuffConfig.childGrowthSpeedMultipler);
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("BeaverChild","LifeExpectancy",   bonusesChildExpectancy, 1,  0.2f    * WellBeingBuffConfig.childLifeExpectancyMultipler);
+            WellbeingTierSpecification.return = new WellbeingTierSpecification("BeaverChild","MovementSpeed",    bonusesChildMovement,   1,  0.2f    * WellBeingBuffConfig.childMovementSpeedMultipler);
         }
     }
 
