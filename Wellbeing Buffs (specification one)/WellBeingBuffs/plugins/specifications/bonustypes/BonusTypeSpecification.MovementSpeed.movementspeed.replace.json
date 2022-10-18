@@ -1,0 +1,7 @@
+{
+  "Id": "MovementSpeed",
+  "LocKey": "Bonus.MovementSpeed",
+  "MinimumValue": 0.1,
+  "MaximumValue": 100,
+  "Icon": "Sprites/Bonuses/MovementSpeed"
+}

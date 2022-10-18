@@ -1,9 +1,9 @@
 
 {
   "name": "WellBeingBuff",
-  "version_number": "1.0.0",
-  "website_url": "",
-  "description": "Each well being tier gives more %",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/Valoneu/TimberbornMods/tree/main/Wellbeing%20Buffs%20(specification%20one)",
+  "description": "Each well being tier gives more %, and they have higher carrying capacity, you can set the % in the plugin folder in the specification files",
   "dependencies": [
     "Timberborn_Central-TimberAPI-0.5.1"
   ]

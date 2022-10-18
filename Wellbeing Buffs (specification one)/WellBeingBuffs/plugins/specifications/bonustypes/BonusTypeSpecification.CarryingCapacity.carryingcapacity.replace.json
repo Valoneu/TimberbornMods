@@ -1,0 +1,6 @@
+{
+  "Id": "CarryingCapacity",
+  "LocKey": "Bonus.CarryingCapacity",
+  "MinimumValue": 3,
+  "MaximumValue": 100
+}
