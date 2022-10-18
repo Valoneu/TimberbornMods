@@ -4,67 +4,67 @@
   "Bonuses": [
     {
       "Wellbeing": 5,
-      "Multiplier": 0.2
+      "Multiplier": 0.5
     },
     {
       "Wellbeing": 10,
-      "Multiplier": 0.4
-    },
-    {
-      "Wellbeing": 15,
-      "Multiplier": 0.6
-    },
-    {
-      "Wellbeing": 20,
-      "Multiplier": 0.8
-    },
-    {
-      "Wellbeing": 25,
       "Multiplier": 1
     },
     {
-      "Wellbeing": 30,
-      "Multiplier": 1.25
+      "Wellbeing": 15,
+      "Multiplier": 1.5
     },
     {
-      "Wellbeing": 35,
-      "Multiplier": 1.50
-    },
-    {
-      "Wellbeing": 40,
-      "Multiplier": 1.75
-    },
-    {
-      "Wellbeing": 45,
+      "Wellbeing": 20,
       "Multiplier": 2
     },
     {
-      "Wellbeing": 50,
-      "Multiplier": 2.25
+      "Wellbeing": 25,
+      "Multiplier": 2.5
     },
     {
-      "Wellbeing": 55,
-      "Multiplier": 2.50
-    },
-    {
-      "Wellbeing": 60,
-      "Multiplier": 2.75
-    },
-    {
-      "Wellbeing": 70,
+      "Wellbeing": 30,
       "Multiplier": 3
     },
     {
-      "Wellbeing": 80,
+      "Wellbeing": 35,
       "Multiplier": 3.5
     },
     {
-      "Wellbeing": 90,
+      "Wellbeing": 40,
       "Multiplier": 4
     },
     {
-      "Wellbeing": 100,
+      "Wellbeing": 45,
+      "Multiplier": 4.5
+    },
+    {
+      "Wellbeing": 50,
       "Multiplier": 5
+    },
+    {
+      "Wellbeing": 55,
+      "Multiplier": 5.5
+    },
+    {
+      "Wellbeing": 60,
+      "Multiplier": 6
+    },
+    {
+      "Wellbeing": 70,
+      "Multiplier": 7
+    },
+    {
+      "Wellbeing": 80,
+      "Multiplier": 8
+    },
+    {
+      "Wellbeing": 90,
+      "Multiplier": 9
+    },
+    {
+      "Wellbeing": 100,
+      "Multiplier": 10
     }
   ],
   "WellbeingThreshold": 10,
